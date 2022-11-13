@@ -1,9 +1,8 @@
 <h1 align="center">
 Hi 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, 
-I'm Antonio Meza
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, Soy Antonio
 </h1>
-<h3 align="center">A game developer from Nicaragua.</h3>
+<h3 align="center">Estudio Ingeniería en Sistemas de Información y en mis tiempos libres desarrollo videojuegos con Unity.</h3>
  
 <p align = "center">
   
@@ -15,9 +14,11 @@ I'm Antonio Meza
 
 ## 🔎 Github Stats
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ancoza&vue&hide_border=true"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ancoza&vue&show_icons=true&locale=en&layout=compact" alt="ancoza"/>
- <img src = "https://github-readme-stats.vercel.app/api?username=ancoza&show_icons=true&count_private=true&hide_border=true"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=ancoza&show_icons=true&count_private=true&hide_border=true"/>
+</p>
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ancoza&vue&hide_border=true"  height="150"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ancoza&show_icons=true&locale=en&layout=compact" alt="ancoza"  height="150"/>
 </p>
 
 <p align="right">
